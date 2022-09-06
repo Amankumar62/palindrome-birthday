@@ -27,3 +27,20 @@ main button {
 p{
     font-size: large;
 }
+footer a{
+    font-size: large;
+    margin: 0.5rem;
+    text-decoration: none;
+    color: black;
+}
+footer{
+    border-top-right-radius: 5rem;
+    border-top-left-radius: 5rem;
+    background-color: #a3e635;
+ padding: 1rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
